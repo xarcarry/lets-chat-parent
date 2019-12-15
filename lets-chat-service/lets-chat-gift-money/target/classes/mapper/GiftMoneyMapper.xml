@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.chat.gift.money.dao.GiftMoneyDao">
+    <insert id="addGiftMoney" parameterType="com.chat.gift.money.model.GiftMoney">
+        insert into gift_money values(#{id}, #{orderId}, #{userId}, #{count},
+        #{amount}, #{isOver}, #{isExpired}, #{createTime})
+    </insert>
+    <insert id="addStock">
+        insert into gift_money_stock(order_id, stock) values(#{order_id}, #{stock})
+    </insert>
+    <select id="getGiftMoneyStock" resultType="Integer">
+        select stock from gift_money_stock where order_id = #{orderId}
+    </select>
+    <update id="updateGiftMoneyStock">
+        update gift_money_stock set stock = #{stock} where order_id = #{order_id}
+    </update>
+</mapper>

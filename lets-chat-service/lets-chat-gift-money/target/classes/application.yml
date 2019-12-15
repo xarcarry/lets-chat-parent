@@ -1,0 +1,39 @@
+server:
+  port: 8120
+  servlet:
+    context-path: /giftMoney
+
+spring:
+  application:
+    name: lets-chat-gift-money
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/lets-chat-gift-money?useSSL=false
+    username: root
+    password: 123456
+  rabbitmq:
+    host: 192.168.237.100
+    port: 5672
+    username: root
+    password: 123456
+    listener:
+      simple:
+        concurrency: 1
+        max-concurrency: 20
+        prefetch: 5
+        acknowledge-mode: manual
+        retry:
+          enabled: true
+    publisher-confirms: true
+    publisher-returns: true
+    virtual-host: /
+mybatis:
+  mapper-locations: classpath:mapper/*Mapper.xml
+
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:8080/eureka
+  instance:
+    instance-id: ${spring.application.name}:${server.port}
+    prefer-ip-address: true

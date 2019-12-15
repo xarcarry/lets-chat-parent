@@ -1,0 +1,51 @@
+server:
+  port: 8090
+
+spring:
+  application:
+    name: lets-chat-zuul
+  main:
+    allow-bean-definition-overriding: true
+
+logging:
+  level:
+    root: info
+
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:8080/eureka/
+  instance:
+    prefer-ip-address: true
+    instance-id: ${spring.application.name}:${spring.cloud.client.ip-address}:${server.port}
+
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: refresh, health, info, env
+feign:
+  hystrix:
+    enabled: true
+  compression:
+    request:
+      enabled: true
+      mime-types: {"text/html", "application/xml", "application/json"}
+      min-request-size: 2048
+    response:
+      enabled: true
+zuul:
+  routes:
+    lets-chat-auth:
+      stripPrefix: false
+      path: /auth/**
+    lets-chat-user:
+      stripPrefix: false
+      path: /user/**
+    lets-chat-gift-money:
+      stripPrefix: false
+      path: /giftMoney/**
+    lets-chat-push:
+      stripPrefix: false
+      path: /push/**

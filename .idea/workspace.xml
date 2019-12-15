@@ -1,0 +1,1318 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="GROUP_BY_SEVERITY" value="true" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="16b39734-b855-47b7-8603-c273248fdb4e" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/lets-chat-uaa/target/" />
+    <ignored path="$PROJECT_DIR$/lets-chat-push/target/" />
+    <ignored path="$PROJECT_DIR$/lets-chat-eureka/target/" />
+    <ignored path="$PROJECT_DIR$/lets-chat-user/target/" />
+    <ignored path="$PROJECT_DIR$/lets-chat-zuul/target/" />
+    <ignored path="$PROJECT_DIR$/lets-chat-api/target/" />
+    <ignored path="$PROJECT_DIR$/lets-chat-set-gift-money/target/" />
+    <ignored path="$PROJECT_DIR$/lets-chat-snatch-gift-money/target/" />
+    <ignored path="$PROJECT_DIR$/lets-chat-auth/target/" />
+    <ignored path="$PROJECT_DIR$/lets-chat-token-api/target/" />
+    <ignored path="$PROJECT_DIR$/lets-chat-api/lets-chat-token-api/target/" />
+    <ignored path="$PROJECT_DIR$/lets-chat-user-api/target/" />
+    <ignored path="$PROJECT_DIR$/lets-chat-api/lets-chat-user-api/target/" />
+    <ignored path="$PROJECT_DIR$/lets-chat-common/target/" />
+    <ignored path="$PROJECT_DIR$/lets-chat-service/target/" />
+    <ignored path="$PROJECT_DIR$/lets-chat-service/lets-chat-push/target/" />
+    <ignored path="$PROJECT_DIR$/lets-chat-service/lets-chat-set-gift-money/target/" />
+    <ignored path="$PROJECT_DIR$/lets-chat-service/lets-chat-snatch-gift-money/target/" />
+    <ignored path="$PROJECT_DIR$/lets-chat-service/lets-chat-user/target/" />
+    <ignored path="$PROJECT_DIR$/lets-chat-gift-money/target/" />
+    <ignored path="$PROJECT_DIR$/lets-chat-service/lets-chat-gift-money/target/" />
+    <ignored path="$PROJECT_DIR$/lets-chat-rabbit-api/target/" />
+    <ignored path="$PROJECT_DIR$/lets-chat-api/lets-chat-rabbit-api/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1438760998">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="19" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.1" value="3" />
+          <entry key="project.open.time.10" value="3" />
+          <entry key="project.open.time.13" value="1" />
+          <entry key="project.open.time.14" value="1" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.open.time.8" value="4" />
+          <entry key="project.open.time.9" value="5" />
+          <entry key="project.opened" value="19" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="class" value="4" />
+          <entry key="conf" value="87" />
+          <entry key="dummy" value="15" />
+          <entry key="java" value="25687" />
+          <entry key="xml" value="2002" />
+          <entry key="yml" value="1653" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="CLASS" value="4" />
+          <entry key="JAVA" value="25687" />
+          <entry key="PLAIN_TEXT" value="102" />
+          <entry key="SQL" value="1" />
+          <entry key="XML" value="2001" />
+          <entry key="YAML" value="1653" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="class" value="39" />
+          <entry key="conf" value="17" />
+          <entry key="java" value="834" />
+          <entry key="pom" value="1" />
+          <entry key="xml" value="162" />
+          <entry key="yml" value="114" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="39" />
+          <entry key="JAVA" value="834" />
+          <entry key="PLAIN_TEXT" value="17" />
+          <entry key="XML" value="163" />
+          <entry key="YAML" value="114" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="lets-chat-parent" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lets-chat-zuul/src/main/java/com/chat/zuul/filter/AuthFilter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="395">
+              <caret line="57" column="30" selection-start-line="57" selection-start-column="30" selection-end-line="57" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/lets-chat-service/lets-chat-gift-money/src/main/java/com/chat/gift/money/controller/SnatchController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="336">
+              <caret line="17" column="38" lean-forward="true" selection-start-line="17" selection-start-column="38" selection-end-line="17" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="Interface" />
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>823113</find>
+    </findStrings>
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="E:/Gradle/eureka" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/lets-chat-service/lets-chat-gift-money/src/main/java/com/chat/gift/money/exception/GiftMoneyExpiredException.java" />
+        <option value="$PROJECT_DIR$/lets-chat-service/lets-chat-gift-money/src/main/java/com/chat/gift/money/exception/GiftMoneyOverException.java" />
+        <option value="$PROJECT_DIR$/lets-chat-service/lets-chat-gift-money/src/main/java/com/chat/gift/money/model/SnatchGiftMoney.java" />
+        <option value="$PROJECT_DIR$/lets-chat-api/lets-chat-user-api/src/main/java/com/chat/user/model/SnatchHistory.java" />
+        <option value="$PROJECT_DIR$/lets-chat-service/lets-chat-gift-money/src/main/java/com/chat/gift/money/service/GiftMoneyService.java" />
+        <option value="$PROJECT_DIR$/lets-chat-service/lets-chat-user/src/main/resources/registry.conf" />
+        <option value="$PROJECT_DIR$/lets-chat-service/lets-chat-gift-money/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/lets-chat-service/lets-chat-gift-money/src/main/resources/file.conf" />
+        <option value="$PROJECT_DIR$/lets-chat-service/lets-chat-user/src/main/resources/file.conf" />
+        <option value="$PROJECT_DIR$/lets-chat-service/lets-chat-gift-money/src/main/resources/registry.conf" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/lets-chat-api/lets-chat-user-api/src/main/java/com/chat/user/model/PermissionDto.java" />
+        <option value="$PROJECT_DIR$/lets-chat-api/lets-chat-user-api/src/main/java/com/chat/user/feign/UserServiceFallbackFactory.java" />
+        <option value="$PROJECT_DIR$/lets-chat-service/lets-chat-user/src/main/java/com/chat/user/service/UserService.java" />
+        <option value="$PROJECT_DIR$/lets-chat-service/lets-chat-user/src/main/java/com/chat/user/filter/TokenAuthenticationFilter.java" />
+        <option value="$PROJECT_DIR$/lets-chat-service/lets-chat-user/src/main/java/com/chat/user/controller/OrderController.java" />
+        <option value="$PROJECT_DIR$/lets-chat-service/lets-chat-user/src/main/java/com/chat/user/config/WebSecurityConfig.java" />
+        <option value="$PROJECT_DIR$/lets-chat-service/lets-chat-user/src/main/java/com/chat/user/UserApp.java" />
+        <option value="$PROJECT_DIR$/lets-chat-service/lets-chat-user/pom.xml" />
+        <option value="$PROJECT_DIR$/lets-chat-service/lets-chat-gift-money/src/main/java/com/chat/gift/money/GiftMoneyApp.java" />
+        <option value="$PROJECT_DIR$/lets-chat-service/lets-chat-gift-money/src/main/java/com/chat/gift/money/service/impl/GiveServiceImpl.java" />
+        <option value="$PROJECT_DIR$/lets-chat-service/lets-chat-gift-money/src/main/java/com/chat/gift/money/dao/GiftMoneyDao.java" />
+        <option value="$PROJECT_DIR$/lets-chat-service/lets-chat-user/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/lets-chat-service/lets-chat-gift-money/src/main/java/com/chat/gift/money/handler/GlobalExceptionHandler.java" />
+        <option value="$PROJECT_DIR$/lets-chat-common/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/lets-chat-common/pom.xml" />
+        <option value="$PROJECT_DIR$/lets-chat-rabbit-api/pom.xml" />
+        <option value="$PROJECT_DIR$/lets-chat-api/pom.xml" />
+        <option value="$PROJECT_DIR$/lets-chat-api/lets-chat-rabbit-api/pom.xml" />
+        <option value="$PROJECT_DIR$/lets-chat-service/lets-chat-gift-money/src/main/resources/mapper/GiftMoneyMapper.xml" />
+        <option value="$PROJECT_DIR$/lets-chat-api/lets-chat-user-api/src/main/java/com/chat/user/feign/UserService.java" />
+        <option value="$PROJECT_DIR$/lets-chat-service/lets-chat-user/src/main/java/com/chat/user/dao/UserDao.java" />
+        <option value="$PROJECT_DIR$/lets-chat-service/lets-chat-user/src/main/java/com/chat/user/controller/UserController.java" />
+        <option value="$PROJECT_DIR$/lets-chat-service/lets-chat-user/src/main/java/com/chat/user/service/impl/UserServiceImpl.java" />
+        <option value="$PROJECT_DIR$/lets-chat-service/lets-chat-gift-money/src/main/java/com/chat/gift/money/service/impl/GiftMoneyServiceImpl.java" />
+        <option value="$PROJECT_DIR$/lets-chat-service/lets-chat-gift-money/pom.xml" />
+        <option value="$PROJECT_DIR$/lets-chat-service/lets-chat-gift-money/src/main/java/com/chat/gift/money/aop/GiftMoneyLog.java" />
+        <option value="$PROJECT_DIR$/lets-chat-service/lets-chat-gift-money/src/main/java/com/chat/gift/money/listener/GiftMoneyMqListener.java" />
+        <option value="$PROJECT_DIR$/lets-chat-service/lets-chat-gift-money/src/main/java/com/chat/gift/money/service/impl/SnatchServiceImpl.java" />
+        <option value="$PROJECT_DIR$/lets-chat-zuul/pom.xml" />
+        <option value="$PROJECT_DIR$/lets-chat-common/src/main/java/com/chat/common/util/ResponseCode.java" />
+        <option value="$PROJECT_DIR$/lets-chat-common/src/main/java/com/chat/common/util/redis/RedisUtil.java" />
+        <option value="$PROJECT_DIR$/lets-chat-common/src/main/java/com/chat/common/util/CurrentUserUtil.java" />
+        <option value="$PROJECT_DIR$/lets-chat-api/lets-chat-user-api/pom.xml" />
+        <option value="$PROJECT_DIR$/lets-chat-api/lets-chat-user-api/src/main/java/com/chat/user/model/CurrentUserUtil.java" />
+        <option value="$PROJECT_DIR$/lets-chat-service/lets-chat-gift-money/src/main/java/com/chat/gift/money/filter/GiftMoneyFilter.java" />
+        <option value="$PROJECT_DIR$/lets-chat-zuul/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/lets-chat-zuul/src/main/java/com/chat/zuul/ZuulApp.java" />
+        <option value="$PROJECT_DIR$/lets-chat-auth/src/main/java/com/chat/auth/service/SelfUserDetailsService.java" />
+        <option value="$PROJECT_DIR$/lets-chat-zuul/src/main/java/com/chat/zuul/filter/AuthFilter.java" />
+        <option value="$PROJECT_DIR$/lets-chat-service/lets-chat-gift-money/src/main/java/com/chat/gift/money/controller/SnatchController.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="userSettingsFile" value="C:\Program Files\Maven\apache-maven-3.6.2\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="lets-chat-gift-money" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="lets-chat-gift-money" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="835" />
+    <option name="width" value="1100" />
+    <option name="height" value="1060" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+          <State>
+            <id>CodeSpring CoreSpring</id>
+          </State>
+          <State>
+            <id>Java</id>
+          </State>
+          <State>
+            <id>Serialization issuesJava</id>
+          </State>
+          <State>
+            <id>Spring</id>
+          </State>
+          <State>
+            <id>Spring CoreSpring</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>SpringJavaInjectionPointsAutowiringInspection</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="lets-chat-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lets-chat-parent" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lets-chat-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lets-chat-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="lets-chat-api" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lets-chat-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lets-chat-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="lets-chat-api" type="462c0819:PsiDirectoryNode" />
+              <item name="lets-chat-user-api" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lets-chat-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lets-chat-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="lets-chat-api" type="462c0819:PsiDirectoryNode" />
+              <item name="lets-chat-user-api" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lets-chat-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lets-chat-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="lets-chat-api" type="462c0819:PsiDirectoryNode" />
+              <item name="lets-chat-user-api" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lets-chat-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lets-chat-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="lets-chat-api" type="462c0819:PsiDirectoryNode" />
+              <item name="lets-chat-user-api" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lets-chat-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lets-chat-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="lets-chat-api" type="462c0819:PsiDirectoryNode" />
+              <item name="lets-chat-user-api" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="user" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lets-chat-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lets-chat-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="lets-chat-api" type="462c0819:PsiDirectoryNode" />
+              <item name="lets-chat-user-api" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="user" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lets-chat-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lets-chat-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="lets-chat-auth" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lets-chat-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lets-chat-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="lets-chat-auth" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lets-chat-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lets-chat-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="lets-chat-auth" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lets-chat-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lets-chat-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="lets-chat-auth" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lets-chat-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lets-chat-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="lets-chat-auth" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="auth" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lets-chat-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lets-chat-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="lets-chat-common" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lets-chat-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lets-chat-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="lets-chat-common" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lets-chat-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lets-chat-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="lets-chat-common" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lets-chat-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lets-chat-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="lets-chat-common" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lets-chat-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lets-chat-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="lets-chat-common" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lets-chat-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lets-chat-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="lets-chat-common" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lets-chat-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lets-chat-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="lets-chat-service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lets-chat-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lets-chat-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="lets-chat-service" type="462c0819:PsiDirectoryNode" />
+              <item name="lets-chat-gift-money" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lets-chat-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lets-chat-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="lets-chat-service" type="462c0819:PsiDirectoryNode" />
+              <item name="lets-chat-gift-money" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lets-chat-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lets-chat-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="lets-chat-service" type="462c0819:PsiDirectoryNode" />
+              <item name="lets-chat-gift-money" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lets-chat-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lets-chat-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="lets-chat-service" type="462c0819:PsiDirectoryNode" />
+              <item name="lets-chat-gift-money" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lets-chat-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lets-chat-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="lets-chat-service" type="462c0819:PsiDirectoryNode" />
+              <item name="lets-chat-gift-money" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="money" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lets-chat-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lets-chat-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="lets-chat-service" type="462c0819:PsiDirectoryNode" />
+              <item name="lets-chat-gift-money" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="money" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lets-chat-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lets-chat-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="lets-chat-service" type="462c0819:PsiDirectoryNode" />
+              <item name="lets-chat-gift-money" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="money" type="462c0819:PsiDirectoryNode" />
+              <item name="filter" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lets-chat-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lets-chat-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="lets-chat-service" type="462c0819:PsiDirectoryNode" />
+              <item name="lets-chat-gift-money" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="money" type="462c0819:PsiDirectoryNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lets-chat-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lets-chat-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="lets-chat-service" type="462c0819:PsiDirectoryNode" />
+              <item name="lets-chat-gift-money" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lets-chat-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lets-chat-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="lets-chat-service" type="462c0819:PsiDirectoryNode" />
+              <item name="lets-chat-user" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lets-chat-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lets-chat-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="lets-chat-service" type="462c0819:PsiDirectoryNode" />
+              <item name="lets-chat-user" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lets-chat-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lets-chat-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="lets-chat-service" type="462c0819:PsiDirectoryNode" />
+              <item name="lets-chat-user" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lets-chat-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lets-chat-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="lets-chat-service" type="462c0819:PsiDirectoryNode" />
+              <item name="lets-chat-user" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lets-chat-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lets-chat-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="lets-chat-service" type="462c0819:PsiDirectoryNode" />
+              <item name="lets-chat-user" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="user" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lets-chat-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lets-chat-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="lets-chat-zuul" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lets-chat-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lets-chat-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="lets-chat-zuul" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lets-chat-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lets-chat-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="lets-chat-zuul" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lets-chat-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lets-chat-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="lets-chat-zuul" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lets-chat-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lets-chat-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="lets-chat-zuul" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="zuul" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lets-chat-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lets-chat-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="lets-chat-zuul" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="zuul" type="462c0819:PsiDirectoryNode" />
+              <item name="filter" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="lets-chat-parent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lets-chat-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="lets-chat-zuul" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="AndroidView" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="SearchEverywhereHistoryKey" value="recursiveCount&#9;PSI&#9;JAVA://com.chat.money.util.RedPacketUtil#recursiveCount" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1576338182684" />
+    <property name="last_opened_file_path" value="F:/Git/Security+Oauth2/SpringCloud-OAuth2-SpringSecurity-Frame" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.annotationProcessors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\Workspaces\IdeaWorkspace\lets-chat-parent\lets-chat-service" />
+      <recent name="F:\Workspaces\IdeaWorkspace\lets-chat-parent\lets-chat-api" />
+      <recent name="F:\Workspaces\IdeaWorkspace\lets-chat-parent\lets-chat-snatch-gift-money\src\main\resources\mapper" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.chat.user.model" />
+      <recent name="com.chat.gift.money.listener" />
+      <recent name="com.chat.gift.money.util" />
+      <recent name="com.chat.common.model" />
+      <recent name="com.chat.common.util" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\Workspaces\IdeaWorkspace\lets-chat-parent\lets-chat-service\lets-chat-user\src\main\resources" />
+      <recent name="F:\Workspaces\IdeaWorkspace\lets-chat-parent\lets-chat-service\lets-chat-user\src\main" />
+      <recent name="F:\Workspaces\IdeaWorkspace\lets-chat-parent\lets-chat-service\lets-chat-gift-money\src\main\resources" />
+      <recent name="F:\Workspaces\IdeaWorkspace\lets-chat-parent\lets-chat-common\src\main\resources" />
+      <recent name="F:\Workspaces\IdeaWorkspace\lets-chat-parent\lets-chat-common\src\main\java\com\chat\common\util" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.AuthApp">
+    <configuration name="AuthApp" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="lets-chat-auth" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.chat.auth.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.chat.auth.AuthApp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurekaApp" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="lets-chat-eureka" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.chat.eureka.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.chat.eureka.EurekaApp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GiftMoneyApp" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="lets-chat-gift-money" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.chat.gift.money.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.chat.gift.money.GiftMoneyApp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserApp" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="lets-chat-user" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.chat.user.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.chat.user.UserApp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ZuulApp" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="lets-chat-zuul" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.chat.zuul.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.chat.zuul.ZuulApp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.EurekaApp" />
+      <item itemvalue="Spring Boot.UserApp" />
+      <item itemvalue="Spring Boot.GiftMoneyApp" />
+      <item itemvalue="Spring Boot.ZuulApp" />
+      <item itemvalue="Spring Boot.AuthApp" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.ZuulApp" />
+        <item itemvalue="Spring Boot.AuthApp" />
+        <item itemvalue="Spring Boot.GiftMoneyApp" />
+        <item itemvalue="Spring Boot.UserApp" />
+        <item itemvalue="Spring Boot.EurekaApp" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\Administrator\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="16b39734-b855-47b7-8603-c273248fdb4e" name="Default Changelist" comment="" />
+      <created>1573471907349</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1573471907349</updated>
+      <workItem from="1573471908848" duration="15227000" />
+      <workItem from="1573507228277" duration="16256000" />
+      <workItem from="1573553688120" duration="21000" />
+      <workItem from="1573554338011" duration="7070000" />
+      <workItem from="1573605709431" duration="10898000" />
+      <workItem from="1573649639828" duration="9308000" />
+      <workItem from="1573659047213" duration="19219000" />
+      <workItem from="1573719832418" duration="14719000" />
+      <workItem from="1573788530104" duration="29903000" />
+      <workItem from="1573881413890" duration="26705000" />
+      <workItem from="1573982400653" duration="17794000" />
+      <workItem from="1575390350860" duration="23000" />
+      <workItem from="1575599235219" duration="14570000" />
+      <workItem from="1575688530224" duration="9632000" />
+      <workItem from="1575899471540" duration="7876000" />
+      <workItem from="1575943796100" duration="27512000" />
+      <workItem from="1576024503113" duration="6232000" />
+      <workItem from="1576111666469" duration="22765000" />
+      <workItem from="1576287352814" duration="15966000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="MoneyServiceTest_show - 2019.11.14 at 01h 38m 53s.xml">
+      <configuration name="MoneyServiceTest.show" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="271696000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info id="Image Layers" order="0" />
+      <window_info id="UI Designer" order="1" />
+      <window_info id="Favorites" order="2" sideWeight="0.51428574" side_tool="true" weight="0.34383377" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="Web" order="4" sideWeight="0.5045249" side_tool="true" weight="0.19571045" />
+      <window_info id="Designer" order="5" />
+      <window_info content_ui="combo" id="Project" order="6" sideWeight="0.4857143" visible="true" weight="0.33512065" />
+      <window_info id="Structure" order="7" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="0" weight="0.329429" />
+      <window_info anchor="bottom" id="Event Log" order="1" sideWeight="0.50268096" side_tool="true" weight="0.33821377" />
+      <window_info anchor="bottom" id="Database Changes" order="2" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="3" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Spring" order="4" weight="0.329429" />
+      <window_info anchor="bottom" id="Message" order="5" />
+      <window_info anchor="bottom" id="Find" order="6" />
+      <window_info anchor="bottom" id="Java Enterprise" order="7" weight="0.329429" />
+      <window_info anchor="bottom" id="Messages" order="8" weight="0.5959004" />
+      <window_info anchor="bottom" id="Run" order="9" sideWeight="0.49731904" weight="0.38506588" />
+      <window_info anchor="bottom" id="Debug" order="10" weight="0.35285506" />
+      <window_info anchor="bottom" id="Cvs" order="11" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="12" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="13" weight="0.329429" />
+      <window_info anchor="right" id="Capture Analysis" order="0" />
+      <window_info anchor="right" id="Maven Projects" order="1" weight="0.3297587" />
+      <window_info anchor="right" id="Database" order="2" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Palette" order="5" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="6" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="7" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
+      <window_info anchor="right" id="Bean Validation" order="9" weight="0.3297587" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/lets-chat-common/src/main/java/com/chat/common/util/redis/RedisUtil.java</url>
+          <line>535</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="63" column="17" selection-start-line="63" selection-start-column="17" selection-end-line="63" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lets-chat-service/lets-chat-user/src/main/java/com/chat/user/controller/OrderController.java" />
+    <entry file="file://$PROJECT_DIR$/lets-chat-service/lets-chat-user/src/main/java/com/chat/user/config/ResourceServerConfig.java" />
+    <entry file="file://$PROJECT_DIR$/lets-chat-service/lets-chat-user/src/main/java/com/chat/user/config/WebSecurityConfig.java" />
+    <entry file="file://$PROJECT_DIR$/lets-chat-service/lets-chat-user/src/main/java/com/chat/user/filter/TokenAuthenticationFilter.java" />
+    <entry file="file://$PROJECT_DIR$/lets-chat-api/lets-chat-token-api/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="7" column="27" selection-start-line="7" selection-start-column="27" selection-end-line="7" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/lang/ClassLoader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="423" selection-start-line="423" selection-end-line="423" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lets-chat-service/lets-chat-user/src/main/java/com/chat/user/service/UserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="392">
+          <caret line="14" column="17" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lets-chat-service/lets-chat-user/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="32">
+          <caret line="3" column="108" lean-forward="true" selection-start-line="3" selection-start-column="108" selection-end-line="3" selection-end-column="108" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lets-chat-service/lets-chat-user/src/main/java/com/chat/user/UserApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="19" column="22" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lets-chat-service/lets-chat-gift-money/src/main/java/com/chat/gift/money/GiftMoneyApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="17" column="33" selection-start-line="17" selection-start-column="33" selection-end-line="17" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lets-chat-service/lets-chat-user/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="25" column="47" selection-start-line="25" selection-start-column="47" selection-end-line="25" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lets-chat-service/lets-chat-gift-money/src/main/java/com/chat/gift/money/service/impl/GiveServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="35" selection-start-line="35" selection-end-line="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lets-chat-service/lets-chat-gift-money/src/main/java/com/chat/gift/money/handler/GlobalExceptionHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-443">
+          <caret line="14" column="12" selection-start-line="14" selection-start-column="12" selection-end-line="14" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lets-chat-rabbit-api/pom.xml" />
+    <entry file="file://$PROJECT_DIR$/lets-chat-api/lets-chat-rabbit-api/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lets-chat-api/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="16" column="16" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lets-chat-api/lets-chat-rabbit-api/src/main/java/com/chat/rabbit/config/RabbitConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1143">
+          <caret line="95" column="13" selection-start-line="95" selection-start-column="13" selection-end-line="95" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lets-chat-common/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="10" column="25" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lets-chat-service/lets-chat-gift-money/src/main/java/com/chat/gift/money/service/GiftMoneyService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="406">
+          <caret line="20" column="9" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lets-chat-service/lets-chat-gift-money/src/main/resources/mapper/GiftMoneyMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="15" column="27" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lets-chat-service/lets-chat-gift-money/src/main/java/com/chat/gift/money/dao/GiftMoneyDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="40" column="37" selection-start-line="40" selection-start-column="37" selection-end-line="40" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lets-chat-api/lets-chat-user-api/src/main/java/com/chat/user/feign/UserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="406">
+          <caret line="24" column="26" selection-start-line="24" selection-start-column="26" selection-end-line="24" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lets-chat-service/lets-chat-user/src/main/java/com/chat/user/dao/UserDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="199">
+          <caret line="43" column="44" selection-start-line="43" selection-start-column="44" selection-end-line="43" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lets-chat-api/lets-chat-user-api/src/main/java/com/chat/user/feign/UserServiceFallbackFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-70">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lets-chat-service/lets-chat-user/src/main/java/com/chat/user/controller/UserController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lets-chat-service/lets-chat-gift-money/src/main/java/com/chat/gift/money/service/SnatchService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lets-chat-service/lets-chat-user/src/main/java/com/chat/user/service/impl/UserServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="40" column="24" lean-forward="true" selection-start-line="40" selection-start-column="24" selection-end-line="40" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lets-chat-service/lets-chat-gift-money/src/main/java/com/chat/gift/money/service/impl/GiftMoneyServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1260">
+          <caret line="43" column="26" selection-start-line="43" selection-start-column="26" selection-end-line="43" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#998#999#0" expanded="true" />
+            <element signature="e#1060#1061#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lets-chat-service/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="318">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lets-chat-service/lets-chat-gift-money/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="37" column="21" selection-start-line="37" selection-start-column="21" selection-end-line="37" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lets-chat-service/lets-chat-gift-money/src/main/java/com/chat/gift/money/aop/GiftMoneyLog.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lets-chat-service/lets-chat-gift-money/src/main/java/com/chat/gift/money/service/impl/SnatchServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2114">
+          <caret line="47" column="36" selection-start-line="47" selection-start-column="36" selection-end-line="47" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lets-chat-service/lets-chat-gift-money/src/main/java/com/chat/gift/money/listener/GiftMoneyMqListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-70">
+          <caret line="39" column="8" selection-start-line="39" selection-start-column="8" selection-end-line="39" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lets-chat-common/src/main/java/com/chat/common/util/ResponseCode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="6" column="26" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
+          <folding>
+            <element signature="e#328#329#0" expanded="true" />
+            <element signature="e#355#356#0" expanded="true" />
+            <element signature="e#392#393#0" expanded="true" />
+            <element signature="e#424#425#0" expanded="true" />
+            <element signature="e#454#455#0" expanded="true" />
+            <element signature="e#480#481#0" expanded="true" />
+            <element signature="e#518#519#0" expanded="true" />
+            <element signature="e#548#549#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lets-chat-common/src/main/java/com/chat/common/util/redis/RedisUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="118" column="13" selection-start-line="118" selection-start-column="13" selection-end-line="118" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lets-chat-api/lets-chat-user-api/src/main/java/com/chat/user/model/PermissionDto.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="56">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lets-chat-api/lets-chat-user-api/src/main/java/com/chat/user/model/UserDto.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lets-chat-api/lets-chat-user-api/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="22" column="19" lean-forward="true" selection-start-line="22" selection-start-column="19" selection-end-line="22" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lets-chat-api/lets-chat-user-api/src/main/java/com/chat/user/model/CurrentUserUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="7" column="32" lean-forward="true" selection-start-line="7" selection-start-column="32" selection-end-line="7" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lets-chat-service/lets-chat-gift-money/src/main/java/com/chat/gift/money/filter/GiftMoneyFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="868">
+          <caret line="30" column="43" selection-start-line="30" selection-start-column="43" selection-end-line="30" selection-end-column="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lets-chat-service/lets-chat-gift-money/src/main/java/com/chat/gift/money/controller/GiveController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="26" column="45" selection-start-line="26" selection-start-column="45" selection-end-line="26" selection-end-column="45" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#631#632#0" expanded="true" />
+            <element signature="e#709#710#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lets-chat-service/lets-chat-gift-money/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-781">
+          <caret line="3" column="22" lean-forward="true" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lets-chat-zuul/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3">
+          <caret line="43" column="24" lean-forward="true" selection-start-line="43" selection-start-column="24" selection-end-line="43" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lets-chat-zuul/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="447">
+          <caret line="74" column="30" selection-start-line="74" selection-start-column="30" selection-end-line="74" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lets-chat-common/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="251">
+          <caret line="21" column="21" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lets-chat-zuul/src/main/java/com/chat/zuul/ZuulApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="11" column="22" lean-forward="true" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lets-chat-auth/src/main/java/com/chat/auth/service/SelfUserDetailsService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="840">
+          <caret line="30" column="20" lean-forward="true" selection-start-line="30" selection-start-column="20" selection-end-line="30" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lets-chat-auth/src/main/java/com/chat/auth/AuthApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="7" column="22" lean-forward="true" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lets-chat-zuul/src/main/java/com/chat/zuul/filter/AuthFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="395">
+          <caret line="57" column="30" selection-start-line="57" selection-start-column="30" selection-end-line="57" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lets-chat-service/lets-chat-gift-money/src/main/java/com/chat/gift/money/controller/SnatchController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="17" column="38" lean-forward="true" selection-start-line="17" selection-start-column="38" selection-end-line="17" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>lets-chat-rabbit-api</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: antlr:antlr:2.7.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

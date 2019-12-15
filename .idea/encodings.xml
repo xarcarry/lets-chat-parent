@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lets-chat-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lets-chat-api/lets-chat-rabbit-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lets-chat-api/lets-chat-token-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lets-chat-api/lets-chat-user-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lets-chat-auth" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lets-chat-common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lets-chat-eureka" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lets-chat-rabbit-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lets-chat-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lets-chat-service/lets-chat-gift-money" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lets-chat-service/lets-chat-push" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lets-chat-service/lets-chat-user" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lets-chat-zuul" charset="UTF-8" />
+  </component>
+</project>

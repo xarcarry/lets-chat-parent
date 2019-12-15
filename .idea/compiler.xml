@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="lets-chat-auth" />
+        <module name="lets-chat-common" />
+        <module name="lets-chat-eureka" />
+        <module name="lets-chat-gift-money" />
+        <module name="lets-chat-push" />
+        <module name="lets-chat-rabbit-api" />
+        <module name="lets-chat-token-api" />
+        <module name="lets-chat-user" />
+        <module name="lets-chat-user-api" />
+        <module name="lets-chat-zuul" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="lets-chat-set-gift-money" target="1.8" />
+      <module name="lets-chat-snatch-gift-money" target="1.8" />
+      <module name="lets-chat-uaa" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
